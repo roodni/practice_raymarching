@@ -12,7 +12,7 @@ A test shader program of sphere tracing
 
 ## How to Run
 1. Put it on server
-2. Open index.html in your browser
+2. Open `index.html` in your browser
 
 Example (using python3):
 ```
@@ -21,3 +21,5 @@ cd test_raymarching
 python3 -m http.server 8000
 open http://localhost:8000/
 ```
+
+It also runs on [GLSL Sandbox](http://glslsandbox.com/e#58405.0).
